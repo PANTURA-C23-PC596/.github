@@ -8,7 +8,8 @@
 7. A060DSY1135 – Dinda Anisa Yunita ([@Dndanisaynta](https://github.com/Dndanisaynta)) – Politeknik Negeri Bengkalis
 
 # Nama Proyek
-PANTURA : Pelaporan Trek dan Jalan Rusak  (Track and Road Damage Reporting)
+## PANTURA : Pelaporan Trek dan Jalan Rusak  (Track and Road Damage Reporting)
+![Logo Pantura](https://storage.googleapis.com/pantura-bucket/logo-color.png)
 
 # Development Tools
 ## A. Design App and Web
