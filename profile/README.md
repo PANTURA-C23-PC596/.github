@@ -11,17 +11,17 @@
 PANTURA : Pelaporan Trek dan Jalan Rusak  (Track and Road Damage Reporting)
 
 # Development Tools
-## Design App and Web
+## A. Design App and Web
 1. Figma
-## Machine Learning
+## B. Machine Learning
 1. Python - TensorFlow
 2. Colaboratory
-## Cloud Computing
+## C. Cloud Computing
 1. Google Cloud Platform
 2. HTML
 3. CSS
 4. JavaScript - NodeJs - ExpressJs
 5. MySQL
-## Mobile Development
+## D. Mobile Development
 1. Kotlin
 2. Android Studio
