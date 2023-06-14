@@ -1,6 +1,5 @@
 # Kelompok : C23-PC596
-
-# Anggota
+## Anggota
 1. M229DSX1457 – Fatur Rahman ([@fatrrr](https://github.com/fatrrr)) – Universitas Lambung Mangkurat
 3. M065DKX3768 – Muhammad Kausar ([@kausarm](https://github.com/kausarm)) – Politeknik Negeri Lhokseumawe
 4. M181DSY1569 – Nisrina Anbar Fadhilah ([@nisrinanbr](https://github.com/nisrinanbr)) – Universitas Indonesia
@@ -10,3 +9,19 @@
 
 # Nama Proyek
 PANTURA : Pelaporan Trek dan Jalan Rusak  (Track and Road Damage Reporting)
+
+# Development Tools
+## Design App and Web
+1. Figma
+## Machine Learning
+1. Python - TensorFlow
+2. Colaboratory
+## Cloud Computing
+1. Google Cloud Platform
+2. HTML
+3. CSS
+4. JavaScript - NodeJs - ExpressJs
+5. MySQL
+## Mobile Development
+1. Kotlin
+2. Android Studio
