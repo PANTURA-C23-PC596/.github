@@ -10,6 +10,7 @@
 # Nama Proyek
 ## PANTURA : Pelaporan Trek dan Jalan Rusak  (Track and Road Damage Reporting)
 ![Logo Pantura](https://storage.googleapis.com/pantura-bucket/logo-color.png)
+Pantura is a mobile app for user to report damaged track and road with admin web for admin to managed the reports.
 
 # Development Tools
 ## A. Design App and Web
