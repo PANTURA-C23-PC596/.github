@@ -1,4 +1,4 @@
-# Kelompok : C23-PC596
+# I. Kelompok : C23-PC596
 ## Anggota
 | No | Bangkit ID | Nama | Akun Github | Universitas |
 | -- | ---- | ---- | ------ | --- |
@@ -10,12 +10,12 @@
 | 6. | A060DSY1135 | Dinda Anisa Yunita | [@Dndanisaynta](https://github.com/Dndanisaynta) | Politeknik Negeri Bengkalis |
 
 ***
-# Nama Proyek
+# II. Nama Proyek
 ## PANTURA : Pelaporan Trek dan Jalan Rusak  (Track and Road Damage Reporting)
 Pantura adalah aplikasi mobile bagi user untuk melakukan pelaporan terhadap jalan dan trek yang rusak, serta admin web untuk admin mengelola laporan-laporan yang masuk.
 ![Logo Pantura](https://storage.googleapis.com/pantura-bucket/logo-color.png)
 
-# Development Tools
+# III. Development Tools
 ## A. Design App and Web
 1. Figma
 ## B. Machine Learning
@@ -31,7 +31,7 @@ Pantura adalah aplikasi mobile bagi user untuk melakukan pelaporan terhadap jala
 1. Kotlin
 2. Android Studio
 
-# Penyimpanan Kode Sumber
+# IV. Penyimpanan Kode Sumber
 | No | Bagian | Repository | Branch |
 | -- | ---- | ---- | ------ |
 | 1. | Back End API | pantura | cc-backend |
