@@ -34,7 +34,7 @@ Pantura adalah aplikasi mobile bagi user untuk melakukan pelaporan terhadap jala
 # Penyimpanan Kode Sumber
 | No | Bagian | Repository | Branch |
 | -- | ---- | ---- | ------ |
-| 1. | Backend API | pantura | cc-backend |
+| 1. | Back End API | pantura | cc-backend |
 | 2. | Front End Admin Web | pantura | cc-frontend-web |
 | 3. | Model | pantura | main |
 | 4. | Aplikasi Mobile | mobile-development | main |
