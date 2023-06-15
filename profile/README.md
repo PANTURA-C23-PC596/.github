@@ -1,7 +1,7 @@
 # Kelompok : C23-PC596
 ## Anggota
 | No | Bangkit ID | Nama | Akun Github | Universitas |
-| -- | ---- | ---- |------ | --- |
+| -- | ---- | ---- | ------ | --- |
 | 1. | M229DSX1457 | Fatur Rahman | [@fatrrr](https://github.com/fatrrr) | Universitas Lambung Mangkurat |
 | 2. | M065DKX3768 | Muhammad Kausar | [@kausarm](https://github.com/kausarm) | Politeknik Negeri Lhokseumawe |
 | 3. | M181DSY1569 | Nisrina Anbar Fadhilah | [@nisrinanbr](https://github.com/nisrinanbr) |  Universitas Indonesia |
@@ -30,3 +30,11 @@ Pantura adalah aplikasi mobile bagi user untuk melakukan pelaporan terhadap jala
 ## D. Mobile Development
 1. Kotlin
 2. Android Studio
+
+# Penyimpanan Kode Sumber
+| No | Bagian | Repository | Branch |
+| -- | ---- | ---- | ------ |
+| 1. | Backend API | pantura | cc-backend |
+| 2. | Front End Admin Web | pantura | cc-frontend-web |
+| 3. | Model | pantura | main |
+| 4. | Aplikasi Mobile | mobile-development | main |
