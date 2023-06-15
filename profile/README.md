@@ -1,6 +1,6 @@
 # Kelompok : C23-PC596
 ## Anggota
-| No | Bangkit ID | Nama | Github Link | Universitas |
+| No | Bangkit ID | Nama | Akun Github | Universitas |
 | -- | ---- | ---- |------ | --- |
 | 1. | M229DSX1457 | Fatur Rahman | [@fatrrr](https://github.com/fatrrr) | Universitas Lambung Mangkurat |
 | 2. | M065DKX3768 | Muhammad Kausar | [@kausarm](https://github.com/kausarm) | Politeknik Negeri Lhokseumawe |
